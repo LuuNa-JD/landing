@@ -16,6 +16,7 @@
   color: PaleGoldenRod;
   outline: none;
   text-align: center;
+  user-select: none;
 }
 
 .banner h1:hover {
